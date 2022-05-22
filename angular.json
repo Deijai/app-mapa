@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "app-mapa"
+  "defaultProject": "app-mapa",
+  "cli": {
+    "analytics": "2d2643df-6bdc-4e20-881b-a42f35dc50c6"
+  }
 }
